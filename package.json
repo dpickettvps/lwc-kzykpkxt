@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/dpickettvps.lwc-kzykpkxt",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Y96vnnbnqGBCDyancJE3 --open"
+  }
+}
